@@ -85,7 +85,6 @@ with st.sidebar:
     st.markdown("- عمرو محمود إسحق صالح")
     st.markdown("- أحمد محمد أحمد محمود السيد")
     st.markdown("- السيد مسعد محمد")
-    st.markdown("- محمود ابراهيم محمد عبد المقصود")
     st.markdown("---")
 
     st.header("📊 بيانات التشغيل")
