@@ -84,8 +84,8 @@ with st.sidebar:
     st.markdown("- أحمد رضا السيد أحمد عبد الستار")
     st.markdown("- عمرو محمود إسحق صالح")
     st.markdown("- أحمد محمد أحمد محمود السيد")
-    st.markdown("-السيد مسعد محمد ")
-    
+    st.markdown("- السيد مسعد محمد")
+
     st.header("📊 بيانات التشغيل")
     load = st.slider("⚡ نسبة الحمل (%)", 0, 100, 65)
     wear = st.slider("🔧 تآكل المحور (%)", 0, 100, 25)
